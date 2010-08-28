@@ -1,0 +1,9 @@
+Package: wbiconshadowfix
+Priority: optional
+Section: System
+Architecture: iphoneos-arm
+Version: 0.1
+Description: Fix icon shadows going missing
+Name: Icon Shadow Fix for WinterBoard
+Depends: winterboard, firmware (>= 4.0), preferenceloader (>= 2.0)
+Author: Ryan Petrich <rpetrich@gmail.com>
